@@ -2,7 +2,7 @@
 🔭 I’m currently working on DevOps, Networking, and Cloud Computing projects<br><br>👯 I’m looking to collaborate on beginner-friendly Open Source, DevOps, and Cloud projects<br><br>🤝 I’m looking for help with Linux, AWS, Kubernetes, and real-world DevOps practices<br><br>🌱 I’m currently learning CCNA, AWS Cloud, Linux, and DevOps fundamentals<br><br>💬 Ask me about Java, Python, Networking Basics, AWS, and my learning journey<br><br><br>
 
 
-## 🌐 Socials:
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tejasvini-jayaraman-6a2200312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejasvinijayaramann@gmail.com) 
 
 # 💻 Tech Stack:
