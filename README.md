@@ -25,6 +25,16 @@
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
+## 💻 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/u/0HQIwsZ2tG/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+  </a>
+</p>
+
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tejasvinijayaramann&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
